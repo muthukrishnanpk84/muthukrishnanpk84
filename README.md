@@ -1,7 +1,5 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**muthukrishnanpk84/muthukrishnanpk84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: You can contact me directly with https://www.linkedin.com/in/muthu-krishnan-b97943174/
 - 😄 Pronouns: Sharing is caring
 - ⚡ Fun fact: Music makes me productive
--->
+
